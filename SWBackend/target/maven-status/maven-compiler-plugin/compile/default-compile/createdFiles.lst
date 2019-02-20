@@ -1,0 +1,15 @@
+cz\cvut\fit\tjv\semestralwork\persistance\PersonEntity_.class
+cz\cvut\fit\tjv\semestralwork\persistance\StreetController.class
+cz\cvut\fit\tjv\semestralwork\persistance\PersonController.class
+cz\cvut\fit\tjv\semestralwork\rest\PersonResource.class
+cz\cvut\fit\tjv\semestralwork\persistance\AddressEntity_.class
+cz\cvut\fit\tjv\semestralwork\persistance\StreetEntity.class
+cz\cvut\fit\tjv\semestralwork\rest\AbstractCRUDResource.class
+cz\cvut\fit\tjv\semestralwork\persistance\AddressEntity.class
+cz\cvut\fit\tjv\semestralwork\rest\AddressResource.class
+cz\cvut\fit\tjv\semestralwork\persistance\AddressController.class
+cz\cvut\fit\tjv\semestralwork\persistance\StreetEntity_.class
+cz\cvut\fit\tjv\semestralwork\rest\Endpoint.class
+cz\cvut\fit\tjv\semestralwork\rest\StreetResource.class
+cz\cvut\fit\tjv\semestralwork\persistance\PersonEntity.class
+cz\cvut\fit\tjv\semestralwork\persistance\AbstractCRUDController.class
